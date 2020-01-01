@@ -1,0 +1,14 @@
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\bin\Debug\netcoreapp2.2\labassincnetcore.deps.json
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\bin\Debug\netcoreapp2.2\labassincnetcore.runtimeconfig.json
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\bin\Debug\netcoreapp2.2\labassincnetcore.runtimeconfig.dev.json
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\bin\Debug\netcoreapp2.2\labassincnetcore.dll
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\bin\Debug\netcoreapp2.2\labassincnetcore.pdb
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.csprojAssemblyReference.cache
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.csproj.CoreCompileInputs.cache
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.RazorAssemblyInfo.cache
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.RazorAssemblyInfo.cs
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.AssemblyInfoInputs.cache
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.AssemblyInfo.cs
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.RazorTargetAssemblyInfo.cache
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.dll
+C:\Users\Probook\Documents\Projetos\VisualStudio\labassincnetcore\labassincnetcore\obj\Debug\netcoreapp2.2\labassincnetcore.pdb
