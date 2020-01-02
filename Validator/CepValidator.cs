@@ -12,7 +12,7 @@ namespace labassincnetcore.Validator
         public CepValidator()
         {
             RuleFor(x => x.IdCep).NotNull();
-            RuleFor(x => x.IdCep).Length(0, 8);
+            RuleFor(x => x.IdCep).Length(8);
         }
     }
 }

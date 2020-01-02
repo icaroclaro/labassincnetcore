@@ -21,11 +21,12 @@ namespace labassincnetcore.Controllers
         }
 
         // GET: api/Cep/5
-        [HttpGet("{IdCep}", Name = "Get")]
-        public async Task<string> GetAsync(string IdCep)
+        [HttpGet]
+        [Route("{IdCep}")]
+        public async Task<string> GetAsync([FromRoute] Cep cep)
         {
             HttpClient http = new HttpClient();
-            HttpResponseMessage response = await http.GetAsync($"https://viacep.com.br/ws/{IdCep}/json/");
+            HttpResponseMessage response = await http.GetAsync($"https://viacep.com.br/ws/{cep.IdCep}/json/");
 
             string responseBodyAsText = "";
             if (response.IsSuccessStatusCode)
